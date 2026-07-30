@@ -2,6 +2,10 @@
 
 A full-stack task and workspace management app with a Laravel REST API backend and a React + Vite frontend.
 
+# Preview
+
+<img width="2932" height="1598" alt="image" src="https://github.com/user-attachments/assets/e426ff65-2d52-441d-8e89-84abe0637a3b" />
+
 ## What this project does
 
 Apollo Green Solutions provides:
